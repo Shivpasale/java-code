@@ -1,0 +1,60 @@
+Software:
+========
+
+  Software is a collection of program to do a particular work.
+
+
+program :
+
+group of instruction combine together to do a particular task.
+
+
+types of Software:
+
+
+1:System Software:
+
+   The software which manages the system resources is called System software.
+
+  Ex: DOS, WIN, MAC , Linux ,OS
+
+
+
+2: Application Software:
+
+   The software which manages the application software.
+
+             Ex: Excel  . tally 
+
+
+DOS :
+====
+It is single user and single tasking operating System. It is CUI.
+Commands :
+
+  dir , cls, cd , md , rm , rmdir, del , copy , copy con, type , path.
+
+C:\Users\Abhay>
+
+C:  c drive 
+Users:  System defined Directory /folder
+Abhay: System defined Directory /folder
+
+Dir : Display the files and directory 
+
+Desktop, 
+
+
+Cd:  change directory ,   Either exit from the directory  or Getting inside the directory 
+
+cd..  exit from the current directory 
+cd directory_name   we can get inside the directory .
+
+C:\>  this is called c prompt : 
+
+dir /p : The switch /p produce screen full information and pause the command prompt.
+
+
+Md: Create directory inside the specific drive.
+
+Ex: md directoryName

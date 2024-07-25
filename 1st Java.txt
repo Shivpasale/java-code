@@ -1,0 +1,37 @@
+/*
+
+      Output Statement :
+                                          System.out.println("Statement");
+
+    It is output statement which prints the statement and variable  both.
+
+System.out.println();   Always print in new line
+System.out.print();   Always print in same line
+System.out.printf();   Always print in smae  line with print formating.
+
+
+Escape Sequence Character :
+=========================
+
+"\n "  = new Line feed
+"\t"  = Horizontal Spacce 1.5 tab
+
+  System.out.print("Welcome in C++\n");
+
+*/ 
+
+
+class  First12to1
+   {
+          
+                public static void main(String args[] )
+               {
+                   System.out.println("Welcome in java");
+                System.out.print("Welcome in C++");
+
+                 System.out.printf("\tWelcome in c");
+
+
+                }
+  
+   }
